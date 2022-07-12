@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Vegetable pizaa",
+    "address": "616 Korongo road Karen",
+    "delivery charge": 6,
+    "image": "https://www.tasteofhome.com/recipes/garden-fresh-grilled-veggie-pizza/",
+    "hours": {
+      "SUNDAY": "10:00AM - 2:00PM",
+      "MONDAY": "9:00AM - 10:00PM",
+      "TUESDAY": "9:00AM - 11:00PM",
+      "WEDNESDAY": "9:00AM - 10:00PM",
+      "THURSDAY": "9:00AM - 11:00PM",
+      "FRIDAY": "9:00AM - 10:00PM",
+      "SATURDAY": "9:00AM - 5:00PM"
+    },
+    "Menus": {
+      "name": "Sphaghetti",
+      "price": 10.00,
+      "url": "https://www.archanaskitchen.com/spaghetti-pasta-recipe-in-creamy-tomato-sauce-kids-recipes-made-with-del-monte"
+    }},
+  {
+    "name": "Chicken nuggets",
+    "price": 12.00,
+    "url": "https://www.archanaskitchen.com/spaghetti-pasta-recipe-in-creamy-tomato-sauce-kids-recipes-made-with-del-monte"
+  },
+  {
+    "name": "Fries",
+    "price": 10.00,
+    "url": "https://www.archanaskitchen.com/spaghetti-pasta-recipe-in-creamy-tomato-sauce-kids-recipes-made-with-del-monte"
+  },
+  {
+    "name": "Pizza",
+    "price": "14.00",
+    "url": "https://www.archanaskitchen.com/spaghetti-pasta-recipe-in-creamy-tomato-sauce-kids-recipes-made-with-del-monte"
+  },
+  {
+    "name": "Noodles",
+    "price": "11.18",
+    "url": "https://www.archanaskitchen.com/spaghetti-pasta-recipe-in-creamy-tomato-sauce-kids-recipes-made-with-del-monte"
+  }
+]
+
